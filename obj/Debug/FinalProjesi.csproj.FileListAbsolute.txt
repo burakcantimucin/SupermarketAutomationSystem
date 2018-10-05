@@ -1,0 +1,12 @@
+C:\Users\Burakcan\Documents\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.exe.config
+C:\Users\Burakcan\Documents\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.exe
+C:\Users\Burakcan\Documents\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.pdb
+C:\Users\Burakcan\Documents\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Burakcan\Documents\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form1.resources
+C:\Users\Burakcan\Documents\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Properties.Resources.resources
+C:\Users\Burakcan\Documents\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.csproj.GenerateResource.Cache
+C:\Users\Burakcan\Documents\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.exe
+C:\Users\Burakcan\Documents\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.pdb
+C:\Users\Burakcan\Documents\HFTTF - Yazılım Mühendisliği\2. Sınıf\3. Yarıyıl\Nesneye Yönelik Programlama\Sınavlar\Proje\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.exe.config
+C:\Users\Burakcan\Documents\HFTTF - Yazılım Mühendisliği\2. Sınıf\3. Yarıyıl\Nesneye Yönelik Programlama\Sınavlar\Proje\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.exe
+C:\Users\Burakcan\Documents\HFTTF - Yazılım Mühendisliği\2. Sınıf\3. Yarıyıl\Nesneye Yönelik Programlama\Sınavlar\Proje\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.pdb
